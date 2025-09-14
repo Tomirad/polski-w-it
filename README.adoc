@@ -792,6 +792,10 @@ Jeśli musisz się zastanowić, jakie jest polskie tłumaczenie, danego pojęcia
 | saportować
 | _(1)_ obsługiwać, _(2)_ wspierać
 
+| sargable
+|
+| wyszukiwalny
+
 | switch (_v_)
 | słiczować
 | przełączyć
